@@ -4,7 +4,7 @@ with Python
 
 by Sean Sungil Kim
 
-Coming soon, March 18th
+Jupyter notebook coming soon, March 19th
 
 Computer Vision is utilized in many fields that deploy IoT devices. The purpose of Computer Vision would include but not only be limited to many image detection and recognition aspects. For example, successfully classifying traffic signs given image data of traffic signs could benefit vehicle companies tremendously. To be able to classify traffic signs with significant performance, finding the optimal model with corresponding hyperparameters is important. Therefore, implementing machine learning algorithms in addition to analytical algorithms is necessary. Algorithms such as Random Forest, ADAboost, Neural Networks, XGBoost and other classifiers will be used to compare model performances in this project.
 
