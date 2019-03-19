@@ -1,5 +1,6 @@
+# Advanced Machine Learning
 
-# GTSRB Traffic Sign Image Multi-class Classification
+### GTSRB Traffic Sign Image Multi-class Classification
 with Python
 
 by Sean Sungil Kim
